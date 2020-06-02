@@ -1,2 +1,2 @@
-# Curso_DeepLearningIEEE
-Repositório com material utilizado no grupo de estudos redes neurais do ramo estudantil IEEE UFBA
+# Grupo de estudos em Inteligência Artificial
+Repositório com material utilizado no grupo de estudos do ramo estudantil IEEE UFBA
