@@ -6,8 +6,6 @@
   <a href="#">
     <img src="Logo.jpg" alt="Logo">
   </a>
-
-  <h3 align="center">ArtIEEEficial</h3>
 </p>
 
 
