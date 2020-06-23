@@ -17,16 +17,16 @@ Repositório com material utilizado no grupo de estudos do ramo estudantil IEEE 
 ### Módulo 1 - Machine learning
 
 #### Introdução as ferramentas
-- [] Gestão de pacotes e criação de ambientes virtuais em python (Anacodna / PIP)
-- [] Bibliotecas essencais - NumPy
-- [] Bibliotecas essencais - Pandas
-- [] Tratamento de dados Numéricos / Categóricos
+- [X] Gestão de pacotes e criação de ambientes virtuais em python (Anacodna / PIP)
+- [X] Bibliotecas essencais - NumPy
+- [ ] Bibliotecas essencais - Pandas
+- [ ] Tratamento de dados Numéricos / Categóricos
 #### Introdução as técnicas 
-- [] Regressão Linear
-- [] Classificação Máquina de Vetor de Suporte(SVM)
-- [] Clustering (K - Means)
+- [ ] Regressão Linear
+- [ ] Classificação Máquina de Vetor de Suporte(SVM)
+- [ ] Clustering (K - Means)
 #### Projetos Praticos
-- [] Regressão
-- [] Classificação
+- [ ] Regressão
+- [ ] Classificação
 
 
