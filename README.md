@@ -19,7 +19,7 @@ Repositório com material utilizado no grupo de estudos do ramo estudantil IEEE 
 #### Introdução as ferramentas
 - [X] Gestão de pacotes e criação de ambientes virtuais em python (Anacodna / PIP)
 - [X] Bibliotecas essencais - NumPy
-- [ ] Bibliotecas essencais - Pandas
+- [X] Bibliotecas essencais - Pandas
 - [ ] Tratamento de dados Numéricos / Categóricos
 #### Introdução as técnicas 
 - [ ] Regressão Linear
