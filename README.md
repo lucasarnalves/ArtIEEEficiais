@@ -22,8 +22,8 @@ Repositório com material utilizado no grupo de estudos do ramo estudantil IEEE 
 - [X] Bibliotecas essencais - Pandas
 - [X] Tratamento de dados Numéricos / Categóricos
 #### Introdução as técnicas 
-- [ ] Regressão Linear
-- [ ] Classificação Máquina de Vetor de Suporte(SVM)
+- [X] Regressão Linear
+- [X] Classificação Máquina de Vetor de Suporte(SVM)
 - [ ] Clustering (K - Means)
 #### Projetos Praticos
 - [ ] Regressão
