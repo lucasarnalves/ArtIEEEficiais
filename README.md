@@ -24,7 +24,7 @@ Repositório com material utilizado no grupo de estudos do ramo estudantil IEEE 
 #### Introdução as técnicas 
 - [X] Regressão Linear
 - [X] Classificação Máquina de Vetor de Suporte(SVM)
-- [ ] Clustering (K - Means)
+- [X] Clustering (K - Means)
 #### Projetos Praticos
 - [ ] Regressão
 - [ ] Classificação
